@@ -1,2 +1,2 @@
 # Python-UpiBankValidator
-python program to find name and upi handle of a person by giving phone number
+Python Program To Find Name And Multiple Upi Handle Of A Person By Giving Phone Number
